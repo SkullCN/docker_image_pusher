@@ -1,1 +1,1 @@
-percona/percona-server:5.7.44-48
+valkey/valkey:alpine
