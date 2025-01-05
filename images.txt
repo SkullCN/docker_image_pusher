@@ -1,1 +1,1 @@
-valkey/valkey:alpine
+percona/percona-xtrabackup
